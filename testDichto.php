@@ -17,7 +17,7 @@
 */
 
 ?>
-<form action="readxmlDich.php" name="xml" id="xml" target="_blank"   method="POST" enctype="multipart/form-data"">
+<form action="readxmlDich.php" name="xml" id="xml" target="_blank"   method="POST" enctype="multipart/form-data">
 <input type="file" id="fact" name = "fact">
 <button type= "submit">LEER</button>
 
